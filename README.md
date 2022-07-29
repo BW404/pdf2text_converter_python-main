@@ -2,6 +2,7 @@
 
 This python script takes a pdf file and convert it into a txt file.
 
-requirements;
+requirements:
 python 3.6 or higher
+
 PyPDF2
